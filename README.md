@@ -14,5 +14,8 @@
     <li>
       <a href="binary-search.php">مثال عن ال Binary Search</a>
     </li>
+    <li>
+      <a href="selection-sort.php">مثال عن ال Selection Sort</a>
+    </li>
   </ul>
 </div>
