@@ -17,5 +17,8 @@
     <li>
       <a href="selection-sort.php">مثال عن ال Selection Sort</a>
     </li>
+    <li>
+      <a href="basic-recursion.php">مثال عن ال Recursion (Factorial as an example)</a>
+    </li>
   </ul>
 </div>
