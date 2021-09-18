@@ -20,5 +20,14 @@
     <li>
       <a href="basic-recursion.php">مثال عن ال Recursion (Factorial as an example)</a>
     </li>
+    <li>
+      <a href="basic-recursion-2.php">مثال عن ال Recursion (Sum)</a>
+    </li>
+    <li>
+      <a href="basic-recursion-3.php">مثال عن ال Recursion (Count)</a>
+    </li>
+    <li>
+      <a href="basic-recursion-4.php">مثال عن ال Recursion (Maximum)</a>
+    </li>
   </ul>
 </div>
