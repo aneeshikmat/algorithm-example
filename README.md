@@ -29,5 +29,8 @@
     <li>
       <a href="basic-recursion-4.php">مثال عن ال Recursion (Maximum)</a>
     </li>
+    <li>
+      <a href="quick-sort.php">مثال عن ال Quick Sort</a>
+    </li>
   </ul>
 </div>
