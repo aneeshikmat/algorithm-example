@@ -32,5 +32,8 @@
     <li>
       <a href="quick-sort.php">مثال عن ال Quick Sort</a>
     </li>
+    <li>
+      <a href="breadth-first-search.php">مثال عن ال Breadth-First Search</a>
+    </li>
   </ul>
 </div>
