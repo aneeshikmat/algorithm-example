@@ -3,8 +3,7 @@
 /**
  * breadth-first Algorithm Example - Note, This example just to explain how this algorithm its work, but in real project
  ** surly you can improvement inners functionality to do your work as you expect and use function for validate or any other job...
- * Worst-case run time: O(log n)
- * Log 8 = 3; (Base 2) => (2^3 = 8)
+ * Worst-case run time: O(V+E) => V number of node and E number or edges).
  * 2nees.com
  */
 
