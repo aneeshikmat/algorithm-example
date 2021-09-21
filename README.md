@@ -35,5 +35,8 @@
     <li>
       <a href="breadth-first-search.php">مثال عن ال Breadth-First Search</a>
     </li>
+    <li>
+      <a href="dijkstra.php">مثال عن ال Dijkstra</a>
+    </li>
   </ul>
 </div>
