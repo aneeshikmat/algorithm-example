@@ -38,5 +38,8 @@
     <li>
       <a href="dijkstra.php">مثال عن ال Dijkstra</a>
     </li>
+    <li>
+      <a href="greedy-set-covering.php">مثال عن ال Greedy (Set Covering Problem)</a>
+    </li>
   </ul>
 </div>
